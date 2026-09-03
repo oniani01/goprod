@@ -1,0 +1,27 @@
+# Переменные окружения (секреты)
+.env
+
+# Файлы Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Тестовые файлы
+*.test
+*.out
+
+# Папка vendor
+vendor/
+
+# IDE файлы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS файлы
+.DS_Store
+Thumbs.db
